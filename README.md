@@ -1,8 +1,8 @@
 #Git Update
 # DaVinci-Encrypt-and-Decrypt-
-Not in Qt Version
-you can encrypt your texts with your own key on terminal
-'c' for Crypt 'd' for Decrypt
 
  My Davinci is stolen.
- Please find the thief. He must be somewhere nearby.
+ 
+ The Thief is one of my best friends that loves LOTR so much. 
+ 
+ You can easy find out which one he is.
