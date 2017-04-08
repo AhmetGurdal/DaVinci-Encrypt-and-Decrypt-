@@ -1,8 +1,8 @@
 #Git Update
 # DaVinci-Encrypt-and-Decrypt-
 
- My Davinci is stolen.
+ Darn it one of my best friends stole my davinci.
  
- The Thief is one of my best friends that loves LOTR so much. 
+ I know him. He loves LOTR so much (just like me). 
  
  You can easily find out which one he is.
