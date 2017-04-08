@@ -5,4 +5,4 @@
  
  The Thief is one of my best friends that loves LOTR so much. 
  
- You can easy find out which one he is.
+ You can easily find out which one he is.
